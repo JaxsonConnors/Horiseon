@@ -1,1 +1,2 @@
 # Horiseon
+An on-the-job ticket assignment requiring me to refactor a previous Dev's code to clean it up and make sure that everything is in correct html semantic structure and that the code meets accessability standards in order to optimize the webpage for search engines.
